@@ -135,7 +135,7 @@ SUM(unit_price) total_unit
 FROM walmart
 GROUP BY 1
 )
-SELECT product_category, 
+SELECT city, 
 total_sales * total_unit AS revenue
 FROM Calculation
 ORDER BY 2 DESC;
