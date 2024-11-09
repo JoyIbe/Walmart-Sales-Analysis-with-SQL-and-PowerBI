@@ -1,11 +1,14 @@
 # Walmart Sales Data Analysis
 ## About
-This project entailed analyzing the sales performance of walmart to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
+This project aims to analyze walmart sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
 This dataset contain 24 columns and 8399 rows.
 
 ## Data cleaning and processing:
 1. Excel: Leveraged Ms Excel to remove redundant values, trim, sort and filter through rows of data to understand the dataset and verify maximum length for each character.
-2. Postgresql: During the analysis, new column(s) was extracted and added to assist ascertain vital information required to analyze the data efficiently. 
+2. Postgresql: During the analysis, new column(s) was extracted and added to assist ascertain vital information required to analyze the data efficiently.
+3. Power BI: 
+
+
 
 ## Exploratory Data Analysis(EDA): 
 An EDA is conducted to answer the following business problems listed below:
