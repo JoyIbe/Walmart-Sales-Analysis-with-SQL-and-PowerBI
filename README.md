@@ -63,7 +63,8 @@ An EDA is conducted to answer the following business problems listed below:
 ![WR3](<img width="553" alt="WR 3" src="https://github.com/user-attachments/assets/2f40b268-89d8-4e40-8d48-d15b3a9c7d71">)
 
 ## Limitation
-The major limitation perceived in this data is the blank cells in customer's age column with over 10% empty records which may affect accuracy in finding out age group with highes sales performance. To solve this, they were recorded as "unknown" and covered 12.54% of the age distribution.
+The major limitation perceived in this data is the blank cells in customer's age column with over 10% empty records which may affect accuracy in finding out age group with highest sales performance. To solve this, they were recorded as "unknown" and covered 12.54% of the age distribution.
+
 Lastly, this dataset is not very recent. 
 
 ## Recommendation
