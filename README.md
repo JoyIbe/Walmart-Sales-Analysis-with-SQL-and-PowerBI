@@ -1,6 +1,6 @@
 # Walmart Sales Data Analysis
 ## About
-This project aims to analyze walmart sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
+This project aims to analyze walmart'S sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
 This dataset contain 24 columns and 8399 rows.
 
 ## Tools and Methodology
@@ -56,8 +56,15 @@ An EDA is conducted to answer the following business problems listed below:
 12. High-priority orders constitute the largest portion of orders, followed by Medium and Not Specified.
     
 ## Dashboard
+![WR1](<img width="552" alt="WR 1" src="https://github.com/user-attachments/assets/bf3daeed-4f85-4cd4-ad8b-d32420f7b50a">)
 
+![WR2](<img width="584" alt="WR 2" src="https://github.com/user-attachments/assets/6645df6d-c284-4293-aa9b-8d54227c098b">)
 
+![WR3](<img width="553" alt="WR 3" src="https://github.com/user-attachments/assets/2f40b268-89d8-4e40-8d48-d15b3a9c7d71">)
+
+## Limitation
+The major limitation perceived in this data is the blank cells in customer's age column with over 10% empty records which may affect accuracy in finding out age group with highes sales performance. To solve this, they were recorded as "unknown" and covered 12.54% of the age distribution.
+Lastly, this dataset is not very recent. 
 
 ## Recommendation
 1. Develop targeted marketing strategies for best performing region and states to further capitalize on its strong performance and boost sales in low performing areas.
