@@ -3,12 +3,18 @@
 This project aims to analyze walmart sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
 This dataset contain 24 columns and 8399 rows.
 
-## Data cleaning and processing:
-1. Excel: Leveraged Ms Excel to remove redundant values, trim, sort and filter through rows of data to understand the dataset and verify maximum length for each character.
-2. Postgresql: During the analysis, new column(s) was extracted and added to assist ascertain vital information required to analyze the data efficiently.
-3. Power BI: 
+## Tools and Methodology
 
+TOOLS: Postgresql and Power BI
 
+METHODOLOGY:
+Data Cleaning: This process includes handling inconsistencies in the data, column creation, data formatting and validation to facilitate regularity and accuracy. These processes was carried out on  both postgresql and power query in power bi.
+
+Data Processing: Used Power BI's DAX functionality to create a new table and calculate custom measures like sales growth rate, profit margin, etc in order to fully uncover valuable insights within the dataset.
+
+Data Modeling: Leveraged the power of time-series analysis (year-over-year comparison) by establishing this relationship to unlock deeper insights into sales performance. 
+
+Data Visualization: Built  interactive dashboards in Power BI to efficiently display key metrics and trends to improve sales performance.  
 
 ## Exploratory Data Analysis(EDA): 
 An EDA is conducted to answer the following business problems listed below:
@@ -34,6 +40,34 @@ An EDA is conducted to answer the following business problems listed below:
 19. What is the most common customer segment?
 20. Which customer buys the most?
 21. What is the age of most of the customers?
+
+## Analysis Findings
+1. There was a significant jump in sales in 2015 with a total of  $14.92M with an 8.24% increase from the previous year. 
+2. Revenue reached $6.60bn, a significant 37.88% growth year-over-year.
+3. Walmart operates on a high-volume, low-margin business model. This means they aim to sell a large quantity of goods at lower prices, which attracts a huge number of customers. Even with such thin margins, the sheer volume of sales can lead to substantial overall profits. According to this dataset, the total profit margin decreased by 35.0% compared to the previous year, reaching 2.31%.
+4. The gross profit remained strong at $6.58bn, a 35.8% increase year-over-year.
+5.  Corporate and Home Office segments contribute the most to total sales quantity.
+6. The 50-59 age group shows the largest customer segment with 35.46% followed by 40-49 at 35.35%.
+7. Technology is the top-performing category in terms of sales, profit and revenue.
+8. California has the highest sales, followed by Texas and New York. However, Alabama remits the highest revenue with over 664M followed by Newyork at 627M and  California at 535M.
+9. Sales fluctuate throughout the year with peak in December.
+10. Customers most preferred shipping mode is regular air accounting for 74.56% of shipments.
+11. Central region has the highest sales and revenue, followed by West and East.
+12. High-priority orders constitute the largest portion of orders, followed by Medium and Not Specified.
+    
+## Dashboard
+
+
+
+## Recommendation
+1. Develop targeted marketing strategies for best performing region and states to further capitalize on its strong performance and boost sales in low performing areas.
+2. Consider expanding into new markets or region with high growth potential.
+3. To improve profit margin in the coming year, consider analyzing the factors contributing to the decline in profit margin.
+4. Analyze the competitive landscape in targeted markets and develop appropriate strategies.
+5. Prioritize customer satisfaction by providing excellent customer service and addressing customer concerns promptly.
+6. Continuously optimize the supply chain to ensure efficient product delivery and reduce costs.
+7. Invest in e-commerce initiatives to capture the growing online market.
+
 
 ## Code:
 For the rest of the query, check the [walmart.sql](https://github.com/JoyIbe/Walamart-Sales-Analysis/blob/main/walmart.sql)
