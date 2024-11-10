@@ -75,6 +75,7 @@ Lastly, this dataset is not very recent.
 5. Prioritize customer satisfaction by providing excellent customer service and addressing customer concerns promptly.
 6. Continuously optimize the supply chain to ensure efficient product delivery and reduce costs.
 7. Invest in e-commerce initiatives to capture the growing online market.
+8. Consider periodic increase in discount especially on top 10-15 most purchased products. This bonus can differ across various products. 
 
 
 ## Code:
