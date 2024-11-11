@@ -56,11 +56,11 @@ An EDA is conducted to answer the following business problems listed below:
 12. High-priority orders constitute the largest portion of orders, followed by Medium and Not Specified.
     
 ## Dashboard
-![WR1](<img width="552" alt="WR 1" src="https://github.com/user-attachments/assets/bf3daeed-4f85-4cd4-ad8b-d32420f7b50a">)
+![WR1](https://github.com/JoyIbe/Walmart-Sales-Analysis/blob/main/WR%201.png)
 
-![WR2](<img width="584" alt="WR 2" src="https://github.com/user-attachments/assets/6645df6d-c284-4293-aa9b-8d54227c098b">)
+![WR2](https://github.com/JoyIbe/Walmart-Sales-Analysis/blob/058b9d9f393bfb87747ea6fdf7c121c3e8e6dfe3/WR%202.png)
 
-![WR3](<img width="553" alt="WR 3" src="https://github.com/user-attachments/assets/2f40b268-89d8-4e40-8d48-d15b3a9c7d71">)
+![WR3](https://github.com/JoyIbe/Walmart-Sales-Analysis/blob/058b9d9f393bfb87747ea6fdf7c121c3e8e6dfe3/WR%203.png)
 
 ## Limitation
 The major limitation perceived in this data is the blank cells in customer's age column with over 10% empty records which may affect accuracy in finding out age group with highest sales performance. To solve this, they were recorded as "unknown" and covered 12.54% of the age distribution.
