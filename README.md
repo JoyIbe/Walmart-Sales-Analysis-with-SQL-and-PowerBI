@@ -109,10 +109,6 @@ CREATE TABLE walmart(
 	Zip_Code INT
 );
 ```
-## Findings and Conclusion
-1. Geographic Insights: Top cities/states like Madison, Alabama and the central region with the largest revenue and profit highlights the need for more products distributions in this areas to enhance growth in sales.
-2. Product Categorization: Categorizing content based on average sales helps us procure deep insights into products that are making more sales in the market.
-3. Customer Demographics: The findings of this analysis seek to establish the various customer segments to analyze the buying patterns, revenue of each segment, most preferred ship mode, identify our target customers to facilitate customer satisfaction.
-4. Content Evaluation: This dataset contains diverse range of attributes which uncovers sales trends of products. This result can assist in evaluating the efficiency of each sales strategy walmart applies and the alterations needed to acquire more sales.
+
 
 
