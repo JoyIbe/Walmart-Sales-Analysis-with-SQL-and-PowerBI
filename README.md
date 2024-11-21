@@ -1,4 +1,20 @@
 # Walmart Sales Data Analysis
+
+## Table of Contents
+
+- [About](#about)
+- [Tool and Methodology](#tools-and-methodology)
+- [Exploratory Data Analysis(EDA)](#exploratory-data-analysis)
+- [ Analysis Findings](#analysis-findings)
+- [Dashboard](#dashboard)
+- [Limitation](#limitation)
+- [Recommendation](#recommendation)
+- [Code](#code)
+
+
+
+
+
 ## About
 This project aims to analyze walmart'S sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
 This dataset contain 24 columns and 8399 rows.
@@ -16,7 +32,7 @@ Data Modeling: Leveraged the power of time-series analysis (year-over-year compa
 
 Data Visualization: Built  interactive dashboards in Power BI to efficiently display key metrics and trends to improve sales performance.  
 
-## Exploratory Data Analysis(EDA): 
+## Exploratory Data Analysis: 
 An EDA is conducted to answer the following business problems listed below:
 
 1. How many unique cities does the data have?
