@@ -16,12 +16,12 @@
 
 
 ## About
-This project aims to analyze walmart'S sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
+This project aims to analyze walmart's sales performance to determine the best selling categories of products, sales trends, customer demographics to optimize sales performance and lay strategies to adequately improve sales profit and revenue.
 This dataset contain 24 columns and 8399 rows.
 
 ## Tools and Methodology
 
-TOOLS: Postgresql and Power BI
+TOOLS: PostgreSQL and Power BI
 
 METHODOLOGY:
 Data Cleaning: This process includes handling inconsistencies in the data, column creation, data formatting and validation to facilitate regularity and accuracy. These processes was carried out on  both postgresql and power query in power bi.
